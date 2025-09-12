@@ -27,7 +27,6 @@ Random module (for food placement)
 Clone this repository:
 
 git clone https://github.com/sanjanabh127/Snake-Game.git
-cd snake-game
 
 
 Run the Python file:
