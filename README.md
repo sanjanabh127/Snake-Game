@@ -1,45 +1,29 @@
-**🐍 Snake Game (Tkinter)**
+# 🐍 Snake Game (Tkinter)
 
-A simple Snake Game built using Python and Tkinter. The game runs in a window where the player controls a snake to eat food, grow longer, and avoid collisions with walls or itself.
+A classic **Snake Game** built using **Python and Tkinter**.  
+Control the snake to eat food, grow longer, and avoid collisions with walls or itself.
 
-🎮 Features:
+---
 
-Classic snake gameplay with arrow key controls
+##  Features
+- Classic snake gameplay with **arrow key controls**  
+- Food spawns at **random positions**  
+- **Score tracking** in real-time  
+- **Game-over screen** displaying the final score  
+- Grid-based movement for **smooth gameplay**  
 
-Food spawning at random positions
+---
 
-Score tracking in real-time
+##  Technologies Used
+- Python 3 🐍  
+- Tkinter (GUI)  
+- Random module (for food placement)  
 
-Game-over screen displaying final score
+---
 
-Grid-based movement for smooth gameplay
+##  How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/sanjanabh127/Snake-Game.git
+   cd Snake-Game
 
-🛠️ Technologies Used:
-
-Python 3
-
-Tkinter (for GUI)
-
-Random module (for food placement)
-
-🚀 How to Run
-
-Clone this repository:
-
-git clone https://github.com/sanjanabh127/Snake-Game.git
-
-
-Run the Python file:
-
-python snake_final.py
-
-
-Use the Arrow Keys to move the snake:
-
-⬆ Up
-
-⬇ Down
-
-⬅ Left
-
-➡ Right
